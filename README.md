@@ -17,6 +17,7 @@ Clone the repository to your local system using git clone.
 Run the terminal in that folder and install all necessary packages.
 Type 'python3 server1.py' in terminal and run it.
 Then type 'python3 client1.py' in terminal and run it.
+You have to enter name of video in the 13th line of code(filename = "enter name") in server1.py file and keep the video file and code file in the same folder  
 
 Author
 Somya Chawla
