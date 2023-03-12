@@ -1,8 +1,8 @@
-makers - project
+Makers - Project
 This is the repository for my submission for the SDSLabs Makers 2023.
 
 About
-I have tried to create a media player that allows user to stream videos together. Basically video is stored in the device of server and the client can watch the video and even control it without physically storing video in its device. (the video will stream together on both client and server and both of them can control it, provided both of them are on same wifi) 
+I have tried to create a media player that allows user to stream videos together. Basically video is stored in the device of server and the client can watch the video and even control it without physically storing video in its device. (the video will stream together on both client and server and both of them can control it, provided both of them are on same wifi). 
 
 Features:
 1. Users can watch video without spending their storage and internet data.
